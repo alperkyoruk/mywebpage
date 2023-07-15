@@ -1,2 +1,2 @@
-# mywebpage
-A simple HTML page including my info
+# A simple HTML page including my info
+This is a really basic web page written in HTML. It serves as my personal page, providing information about me, my interests, education, and contact details. The web page includes a navigation bar with links to different sections, such as "Home," "About," "Vision," and "Mission." It incorporates dynamic content using JavaScript to fetch and display the exchange rate for USD and Turkish Lira (TRY) from an API. The page also features a login form, a brief welcome message, a biography section, an education section with external links, an interests section, and a contact details section. It concludes with a footer containing social media icons linked to my Twitter, Instagram, and LinkedIn profiles.
